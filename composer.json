@@ -1,0 +1,19 @@
+{
+	"name": "sanmark/php-exceptions",
+	"description": "A collection of exceptions.",
+	"authors": [
+		{
+			"name": "Sanmark",
+			"email": "work@thesanmark.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"Sanmark\\PhpExceptions": "src/"
+		}
+	},
+	"minimum-stability": "stable"
+}
